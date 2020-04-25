@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-shopping-app-4b253": {
+      "hosting": {
+        "angular.io-example": [
+          "angular-shopping-app-4b253"
+        ]
+      }
+    }
+  }
+}
